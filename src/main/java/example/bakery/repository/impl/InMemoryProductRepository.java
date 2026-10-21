@@ -1,0 +1,1 @@
+public class InMemoryProductRepository extends AbstractInMemoryRepository<Product> {}

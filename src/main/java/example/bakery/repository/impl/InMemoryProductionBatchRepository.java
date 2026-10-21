@@ -1,0 +1,1 @@
+public class InMemoryProductionBatchRepository extends AbstractInMemoryRepository<ProductionBatch> {}

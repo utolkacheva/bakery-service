@@ -1,0 +1,1 @@
+public class InMemoryOrderRepository extends AbstractInMemoryRepository<Order> {}
